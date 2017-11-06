@@ -46,7 +46,6 @@
     "repeat-string": "^1.6.1",
     "replace-string": "^1.1.0",
     "request": "^2.81.0",
-    "slugify": "^1.1.0",
     "split-skip": "0.0.2",
     "strip-eof": "^1.0.0",
     "title-case": "^2.1.1",
