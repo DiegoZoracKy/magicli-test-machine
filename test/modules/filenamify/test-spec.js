@@ -5,11 +5,11 @@ module.exports = {
         {
             "parameters": [
                 [
-                    "str",
+                    "string",
                     "<foo/bar>"
                 ],
                 [
-                    "opts",
+                    "options",
                     ""
                 ]
             ]
