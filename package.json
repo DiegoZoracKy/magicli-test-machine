@@ -1,6 +1,6 @@
 {
   "name": "magicli-test-machine",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Module built to test the use of MagiCLI on published modules. It compares the result of the execution of a module's api via CLI with the result from a common require().",
   "main": "lib/magicli-test-machine.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "find-up": "^2.1.0",
-    "magicli": "^0.2.0"
+    "magicli": "^0.2.1"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
